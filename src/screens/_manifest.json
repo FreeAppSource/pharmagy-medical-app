@@ -1,0 +1,46 @@
+{
+ "app": "Pharmagy Medical App",
+ "start": "s-01",
+ "screens": [
+  {
+   "slug": "s-04",
+   "name": "04",
+   "page": "Pharmagy Demo Screens (4)",
+   "w": 375,
+   "h": 809,
+   "elements": 60,
+   "links": 2
+  },
+  {
+   "slug": "s-03",
+   "name": "03",
+   "page": "Pharmagy Demo Screens (4)",
+   "w": 375,
+   "h": 809,
+   "elements": 124,
+   "links": 2
+  },
+  {
+   "slug": "s-02",
+   "name": "02",
+   "page": "Pharmagy Demo Screens (4)",
+   "w": 375,
+   "h": 809,
+   "elements": 49,
+   "links": 2
+  },
+  {
+   "slug": "s-01",
+   "name": "01",
+   "page": "Pharmagy Demo Screens (4)",
+   "w": 375,
+   "h": 809,
+   "elements": 100,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "dm-sans"
+ ]
+}
